@@ -8,7 +8,7 @@ setup(
     description="A Python package for TOPSIS calculation",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/AbhaijeetSingh11/102217186_abhaijeet_topsis",
+    url="https://github.com/hemant7199/102217141_hemant_topsis",
     packages=["102217141_hemant_topsis"],
     install_requires=[
         "numpy",
