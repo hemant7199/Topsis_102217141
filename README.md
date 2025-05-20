@@ -21,7 +21,7 @@ It ranks alternatives based on their closeness to the ideal solution and farthes
 You can install the package from PyPI using:  
 
 ```bash
-pip install 102217186-abhaijeet-topsis==1.2.0
+pip install 102217141-hemant-topsis==1.2.0
 ```
 
 ---
@@ -33,7 +33,7 @@ pip install 102217186-abhaijeet-topsis==1.2.0
 You can run the TOPSIS package directly from the command line using:  
 
 ```bash
-python -m 102217186_abhaijeet_topsis <input_file> <weights> <impacts> <output_file>
+python -m 102217141_hemant_topsis <input_file> <weights> <impacts> <output_file>
 ```
 
 ### **Parameters**  
@@ -51,7 +51,7 @@ python -m 102217186_abhaijeet_topsis <input_file> <weights> <impacts> <output_fi
 
 ### Command  
 ```bash
-python -m 102217186_abhaijeet_topsis input.csv "0.2,0.1,0.4,0.3" "+,+,-,+"
+python -m 102217141_hemant_topsis input.csv "0.2,0.1,0.4,0.3" "+,+,-,+"
 output.csv
 ```
 
